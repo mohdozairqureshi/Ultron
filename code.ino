@@ -1,6 +1,6 @@
 //This code enhance and enable ultrasonic waves in sensor and rotate servo motor 180degree with 100 millisecond intervals
 //Arduino uses flash memory and have its code uploaded so it does'nt need to upload code everytime from the device
-// Includes the Servo library
+
 #include <Servo.h>. 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
 const int trigPin = 10;
