@@ -51,3 +51,4 @@ int calculateDistance(){
   distance= duration*0.034/2;
   return distance;
 }
+//This project contains open source technology that can be accessed by anyone with valid reasons.
